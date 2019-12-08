@@ -16,7 +16,7 @@ by Bhanu K
 
 He really taught wel and here is a link to its workshop repo [gramexrecipes](https://github.com/gramexrecipes/gramex-ml-workshop)
 
-* _Building Recommender System in Python _
+* Building Recommender System in Python 
 
 by Dr. Sarbjot Singh Anand
 
