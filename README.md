@@ -22,6 +22,7 @@ This was a really enligthening talk and I enjoyed a lot while getting to learn a
 Here's how to do it [lime worshop](https://github.com/laishawadhwa/PyConf-2019---Lime-Workshop)
 
 **Day 2**
+
 Key takeways
 * Keynote by Dr. Sarbjot Singh Anand.
 Here he talked about various ML/AI trends, basics of ML/AI and gave this insights on each one of them. Not to mention his way of teaching was just OUTSTANDING.
@@ -34,7 +35,7 @@ heres where faster convergence is required and Differential programming comes in
 * Scalable Automated Machine Learning with H2O in Pyhon
 by Parul Pandey
 H2O is a open soruce library which can be imported and used in Python to get a hand over varoius models in ML. It is usefull for selecting which model is better for a particular problem with a particular Dataset. It trains varoius ML models from XGBoost to Naive bayes to Decision Trees on our data and ranks them based on their various performace metrics. It is easy to undertand and use and has commands quite similar to Pandas.
-Check this outand startb using this awesome library  :simple_smile:
+Check this outand startb using this awesome library 
 [h20](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/intro.html)
 
 
