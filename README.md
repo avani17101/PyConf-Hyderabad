@@ -6,6 +6,8 @@ The COnference took place between 7-8 December at IIIT Hyderabad. Most of the pe
 There were varois tracks running at different venues in IIIT Hyderabad including workshops, Talks, Seminars and activities at Open spaces.
 
 Some of which I attended.
+
+
 **Day 1**
 * Buliding ML Applications with Grammex.
 by Bhanu K
