@@ -25,7 +25,10 @@ He was even a Keynote Speaker and is highly knowlegable. He is founder of [Tatra
 In this talk he told about various recommneder systems strategies and dealing with user bais on data etc.
 
 * Decrypting ML models with Lime
+
 by Laisha Wadhwa
+
+
 This was a really enligthening talk and I enjoyed a lot while getting to learn about a framework called Lime which makes it easy for Data Sceintists to get an insight on what the model is learning and how its learning pictorially. Now why its important. It makes the process of going through data to tune parameters way easy with its detailed analysis on UI and, its pretty easy. We just need to import Lime in our Python Scripts!
 Here's how to do it [lime worshop](https://github.com/laishawadhwa/PyConf-2019---Lime-Workshop)
 
@@ -68,6 +71,7 @@ Varoious major challenges acocrding to him are:
 He talked about use of Inception Networks and explainable AI in healthcare.
 
 * Why is Problem Solving in the enterprise difficult from Chess, Go, Imagenet or kaggle Challenges.
+
 by Vikas Agrawal
 
 
